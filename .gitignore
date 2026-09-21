@@ -1,0 +1,25 @@
+/.phpunit.cache
+/node_modules
+/public/build
+/public/hot
+/public/storage
+/storage/*.key
+/vendor
+
+# CRUDBooster AI Agent orchestration/runtime-only artifacts (do not sync to user GitHub repos)
+/.cb-preview-router.php
+/.skills
+/themes
+.tnpg/*/start.log
+.env
+.env.backup
+.env.production
+.phpunit.result.cache
+Homestead.json
+Homestead.yaml
+auth.json
+npm-debug.log
+yarn-error.log
+/.fleet
+/.idea
+/.vscode
